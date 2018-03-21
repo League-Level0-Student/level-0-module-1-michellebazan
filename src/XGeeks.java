@@ -26,6 +26,6 @@ String input = JOptionPane.showInputDialog(null, "What is your name?");
 		// 3. Show the superpower in a pop-up, depending on the name entered. 
 if (input.equals("Adrien")) {
 JOptionPane.show
-	}
+}
 }
 
